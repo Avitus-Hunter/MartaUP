@@ -149,6 +149,7 @@ a{
 }
 .specialised__item-img{
     margin-bottom: 23px;
+    min-height: 159px;
 }
 .specialised__item-title{
     margin-bottom: 11px;
