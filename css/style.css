@@ -145,14 +145,18 @@ a{
     margin: 0 auto;
 }
 .specialised__item{
-
+    width: 280px;
 }
 .specialised__item-img{
-    
+    margin-bottom: 23px;
 }
 .specialised__item-title{
-
+    margin-bottom: 11px;
+    font-size: 20px;
+    font-weight: 700;
 }
 .specialised__item-text{
-
+    padding: 0 10px;
+    color: #272727;
+    opacity: 0.7;
 }
